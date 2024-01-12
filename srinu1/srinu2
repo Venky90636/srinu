@@ -1,0 +1,12 @@
+public class whileExample
+{
+public Static voidmain(string[]args)
+{
+    int i=5;
+    while(i<=10)
+    {
+        system.out.println(i);
+        i++;
+    }
+}
+}
